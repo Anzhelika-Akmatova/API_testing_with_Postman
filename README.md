@@ -1,4 +1,8 @@
-# Задание 1
+###
+Практическое задание. Создание коллекции в Postman и кейсы для API
+---
+
+<p><strong> Задание 1 </strong></p>
 
 В рамках задания вам необходимо протестировать все методы, которые представлены для сервиса https://petstore.swagger.io/ в Postman и создать соответствующие коллекции.
 
@@ -10,7 +14,7 @@
 <li>  <a href="https://www.postman.com/anzhelika-akmatova/workspace/my-workspace/collection/28781721-409a8bc8-f06e-420a-82c7-54c6537e0048?action=share&creator=28781721"> Solution of the exercise</a>  </li>
 ---
 
-# Задание 2
+<p><strong> Задание 2 </strong></p>
 
 1. Напишите тестовые кейсы для тестирования запросов коллекции для 4 методов из блока store. Не забывайте, что проверки могут быть позитивные и негативные.
 <li>  <a href="https://docs.google.com/spreadsheets/d/1owWA6FekhAcssqu3yXWUUneYM7QyaIlW/edit?usp=drive_link"> Solution of the exercise</a>  </li>
