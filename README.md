@@ -1,5 +1,5 @@
 ###
-Практическое задание. Создание коллекции в Postman и кейсы для API
+Практическое задание. Создание коллекции в Postman и кейсы для API (SOAP и REST)
 ---
 
 <p><strong> Задание 1 </strong></p>
@@ -12,6 +12,8 @@
 2. Создать несколько юзеров, используя метод createdWithArray
 3. В теле запроса для создания питомца сделать динамические значения, которые будут автоматически генерироваться при отправке
 <li>  <a href="https://www.postman.com/anzhelika-akmatova/workspace/my-workspace/collection/28781721-409a8bc8-f06e-420a-82c7-54c6537e0048?action=share&creator=28781721"> Решение </a>  </li>
+
+<li>  <a href="https://docs.google.com/spreadsheets/d/1owWA6FekhAcssqu3yXWUUneYM7QyaIlW/edit?usp=drive_link"> Решение </a>  </li>
 ---
 
 <p><strong> Задание 2 </strong></p>
@@ -28,3 +30,6 @@
 <img src="задание 2.3 (7).PNG">
 
 <li>  <a href="https://docs.google.com/spreadsheets/d/1owWA6FekhAcssqu3yXWUUneYM7QyaIlW/edit?usp=drive_link"> Решение (во вкладке) </a>  </li>
+
+
+---
