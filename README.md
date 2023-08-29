@@ -21,6 +21,6 @@
 ---
 
 3. Проверьте следующий файл XML на наличие ошибок:
-![Alt text](<задание 2.3 (7).PNG>)
+<img src="задание 2.3 (7).PNG">
 
 <li>  <a href="https://docs.google.com/spreadsheets/d/1owWA6FekhAcssqu3yXWUUneYM7QyaIlW/edit?usp=drive_link"> Solution of the exercise (in the tab)</a>  </li>
